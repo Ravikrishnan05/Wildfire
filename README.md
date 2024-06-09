@@ -1,4 +1,4 @@
-# Wildfire
+# Wildfire detection and notification system 
 ###  Detection using sensors 
 https://www.bosch.com/stories/early-forest-fire-detection-sensors/
 ### Detection using Drones + Sensors
